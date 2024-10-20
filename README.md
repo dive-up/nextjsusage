@@ -1,0 +1,2 @@
+# nextjsusage
+Exploring Next.js
